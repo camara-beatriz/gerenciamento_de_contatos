@@ -93,3 +93,6 @@ O código está dividido nas seguintes classes:
 2. Node: Representa um nó na lista encadeada que contém um contato e uma referência para o próximo nó.
 3. ContactList: Gerencia a lista encadeada, fornecendo métodos para adicionar, buscar, remover e listar contatos.
 4. ContactManager: Contém o método main e é responsável pela interação do usuário através de um menu CLI.
+
+
+\* Projeto realizado como parte da sistematização da matéria de POO II do UniCEUB.
